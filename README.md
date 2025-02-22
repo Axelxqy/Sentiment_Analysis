@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Sentiment Analysis
 An university AI Machine Learning Project
 
 Created By Group 16 ft.
